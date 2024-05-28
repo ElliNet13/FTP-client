@@ -4,17 +4,17 @@
 // Author: Monsta Apps
 // Last Updated: 8 June, 2016
 
-$file_lang_name = "English (US)";
+$file_lang_name = "English (My version)";
 $file_lang_default = 1; // 1 for default, 0 for not
 
-$lang_title_ended = "Session Ended";
-$lang_title_errors = "Errors Occured";
+$lang_title_ended = "You oofed me";
+$lang_title_errors = "Oof";
 
-$lang_session_expired = "Your session has expired";
-$lang_ip_conflict = "Your IP address conflicts with the session IP";
+$lang_session_expired = "Your session has died";
+$lang_ip_conflict = "Your IP address conflicts with the session IP?";
 $lang_token_conflict = "Possible CSRF detected";
 
-$lang_btn_login = "Login";
+$lang_btn_login = "Login (good)";
 $lang_ftp_host = "FTP Host";
 $lang_port = "Port";
 $lang_passive_mode = "Passive mode (default)";

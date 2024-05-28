@@ -320,7 +320,7 @@ function displayHeader()
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Monsta FTP</title>
+    <title>Monsta FTP (ElliNet13's version)</title>
     <link href="css/style.css?<?php echo date("U"); ?>" rel="stylesheet" type="text/css">
     <link href="css/colors.css?<?php echo date("U"); ?>" rel="stylesheet" type="text/css">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">

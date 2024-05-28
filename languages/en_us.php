@@ -4,7 +4,7 @@
 // Author: Monsta Apps
 // Last Updated: 8 June, 2016
 
-$file_lang_name = "English (My version)";
+$file_lang_name = "English (ElliNet13's version)";
 $file_lang_default = 1; // 1 for default, 0 for not
 
 $lang_title_ended = "You oofed me";
